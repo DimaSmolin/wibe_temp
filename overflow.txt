@@ -1,0 +1,2 @@
+Pillow
+https://stackoverflow.com/questions/25662073/python-django-cannot-use-imagefield-because-pillow-is-not-installed
